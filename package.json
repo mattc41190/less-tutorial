@@ -1,0 +1,24 @@
+{
+  "name": "less-tutorial",
+  "version": "1.0.0",
+  "description": "Provide detailed examples of using the Less CSS pre-processor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattc41190/less-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattc41190/less-tutorial/issues"
+  },
+  "homepage": "https://github.com/mattc41190/less-tutorial#readme",
+  "dependencies": {
+    "hapi": "^17.1.1",
+    "inert": "^5.0.1"
+  }
+}

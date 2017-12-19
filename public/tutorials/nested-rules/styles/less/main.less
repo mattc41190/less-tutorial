@@ -1,0 +1,29 @@
+// VARIABLES
+@easy-blue: #3375E0;
+
+// MIXINS
+
+// EFFECTIVE STYLES
+
+header {
+  background-color: @easy-blue;
+  text-align: left;
+  border-radius: 5px;
+  nav {
+    ul {
+      padding: 2% 0%;
+      list-style: none;
+      li {
+        display: inline-block;
+        margin-left: 25px;
+        a {
+          text-decoration: none;
+          color: white;
+          &:hover {
+            color: black;
+          }
+        }
+      }
+    }
+  }
+}

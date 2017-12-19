@@ -1,0 +1,22 @@
+// VARIABLES
+@blackish-blue: #3F4856;
+
+
+// MIXINS
+.headings {
+  line-height: 55px;
+  border: 2px solid black;
+  display: inline-block;
+  color: @blackish-blue;
+  padding: 1%;
+}
+
+// EFFECTIVE STYLES
+
+.title {
+  .headings;
+}
+
+.subtitle {
+  .headings;
+}
