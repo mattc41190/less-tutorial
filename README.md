@@ -9,7 +9,10 @@
   * Use the CDN and compile a `.less` file with a variable on the fly.
 2. Keeping DRY With `Mixins`
   * Write a chunk of css in less and apply that chunk / mixin to multiple elements
-3.
+3. Nesting Selectors For Logical Structure
+  * Write nested selectors to mirror HTML structure in less
+4. Arithmetic
+  * Use math operations to dynamically create values
 
 ## How To Add A Tutorial
 
